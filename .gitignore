@@ -2,6 +2,9 @@
 job_search_state.json
 openai.env
 
+# Development notes — local only
+NOTES.md
+
 # Generated files — regenerated each session
 job_search_dashboard.html
 
