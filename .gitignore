@@ -1,0 +1,14 @@
+# Personal job search data — never commit these
+job_search_state.json
+openai.env
+
+# Generated files — regenerated each session
+job_search_dashboard.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
